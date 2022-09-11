@@ -11,11 +11,11 @@ One way for efficiently analyzing them, is converting the symbolic sequence to a
 This technique is known as CGR, which is a numerical mapping of sequences that is represented in a graph. The last edited version of it is ICGR which allows to encode and decode the sequence into 3 integer number, but this is limited by a specific length of the sequence which is our first problem.
 So, let us discuss our second problem in the next few lines.
 
-##CGR
+## CGR
 
 ![Figure_1](https://user-images.githubusercontent.com/56045828/189552708-ff4d1088-5c9e-4f18-b49d-25c4dab47de4.png)
 
-##ICGR
+## ICGR
 
 ![icgr5](https://user-images.githubusercontent.com/56045828/189552737-b86f4d6d-2513-4841-8646-d93c957f46c9.png)
 
